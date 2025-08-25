@@ -1,16 +1,22 @@
-## Hi there 👋
+# Hi, I'm Naseem 👋
 
-<!--
-**Naseem-DataAnalytics/Naseem-DataAnalytics** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+- 🌱 Currently learning **Python, SQL, R, and Data Visualization**  
+- 🎓 Courses & Certifications:  
+  - ✅ **Data Science Fundamentals with Python & SQL (IBM)** — completed  
+  - **Data Science Specialization (Johns Hopkins University)** — expected by september end
+  - **Google Analytics Professional Certificate (Coursera)** — completing by Oct  
+  - **MITx MicroMasters in Data, Economics, and Development Policy**:  
+    - ✅ Data Analysis for Social Scientists  
+    - ✅ Microeconomics  
+    - ✅ Challenges of Global Poverty  
+    - ✅ Designing and Running Randomized Evaluations & Political Economy and Economic Development — upcoming/completed by Dec  
+- 💻 Skills & Tools:  
+  - **Programming & Analysis:** `Python`, `SQL`, `R`  
+  - **Data Visualization:** `Tableau`, `Google Sheets`, `Matplotlib`, `Seaborn`, `ggplot2`  
+  - **Other Tools:** `Excel`, `Google Analytics`, `BigQuery`  
 
-Here are some ideas to get you started:
+- 🚀 Goal: Build a strong analytics portfolio, grow as a **data analyst and data scientist**, and pursue opportunities such as the **Google Data Analytics Apprenticeship**, with a long-term vision of advancing in **data science at a global scale**  
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+---
+
+  
