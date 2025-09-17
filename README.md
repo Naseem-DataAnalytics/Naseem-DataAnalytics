@@ -24,33 +24,40 @@ You can see this approach in my projects below, where I've done everything from 
 
 ### Featured Projects
 
+### Featured Projects
+
 <table>
 <tr>
 <td width="50%">
   <h3>Causal Impact Analysis of a Sales Promotion</h3>
-  <p>A causal analysis using a <strong>Difference-in-Differences</strong> model in R to isolate the true impact of a sales promotion (+82.6% lift), with a focus on model validation and reproducible reporting.</p>
+  <p>A causal analysis using a <strong>Difference-in-Differences</strong> model in R to isolate the true impact of a sales promotion, with a focus on model validation and reproducible reporting.</p>
   <strong>Technologies:</strong> R, Tidyverse, fixest, R Markdown, Causal Inference
   <br><br>
-  <a href="[LINK-TO-YOUR-PROJECT-REPO]">View Project &rarr;</a>
+  <a href="[LINK-TO-YOUR-CAUSAL-IMPACT-REPO]">View Project &rarr;</a>
 </td>
 <td width="50%">
   <h3>E-Commerce Customer Retention Analysis</h3>
   <p>An end-to-end customer segmentation and cohort analysis project using <strong>PostgreSQL</strong> to identify high-value customers from a large dataset of over 100,000 orders.</p>
   <strong>Technologies:</strong> PostgreSQL, SQL, CTEs, Cohort Analysis, BI
   <br><br>
-  <a href="[LINK-TO-YOUR-PROJECT-REPO]">View Project &rarr;</a>
+  <a href="[LINK-TO-YOUR-ECOMMERCE-REPO]">View Project &rarr;</a>
 </td>
 </tr>
 <tr>
+<td width="50%">
+  <h3>Automated Sales & Operations Dashboard</h3>
+  <p>Developed a self-service reporting tool in <strong>Google Sheets</strong> that transformed a 9K+ row dataset into an interactive dashboard, saving 50+ analyst hours annually through automation.</p>
+  <strong>Technologies:</strong> Google Sheets, QUERY, Google Apps Script, Automation
+  <br><br>
+  <a href="[LINK-TO-YOUR-GOOGLE-SHEETS-REPO]">View Project &rarr;</a>
+</td>
 <td width="50%">
   <h3>GA4 Automated Reporting Pipeline</h3>
   <p>A robust <strong>Python</strong> pipeline that automates Google Analytics 4 data extraction via its API, handling errors and ensuring 100% data uptime for real-time marketing dashboards.</p>
   <strong>Technologies:</strong> Python, APIs, Automation, Data Engineering
   <br><br>
-  <a href="[LINK-TO-YOUR-PROJECT-REPO]">View Project &rarr;</a>
+  <a href="[LINK-TO-YOUR-GA4-REPO]">View Project &rarr;</a>
 </td>
-<td width="50%">
-  </td>
 </tr>
 </table>
 
