@@ -6,24 +6,20 @@
 ---
 
 ### About Me
-
-I'm a data scientist with a foundation in Economics and advanced training in quantitative analysis from the **MITx MicroMasters in Data, Economics, and Development Policy**. My work spans the full analytics lifecycle, from architecting foundational data pipelines in **SQL** and **Python** to deploying insights that drive decisions.
+I focus on data analysis and applied economics, drawing on a foundation in quantitative methods from my economics degree and advanced training from the **MITx MicroMasters in Data, Economics, and Design of Policy**. My work spans the full analytics lifecycle, from architecting foundational data pipelines in **SQL** and **Python** to deploying insights that drive decisions.
 
 > I believe the most robust insights come from moving beyond correlation to understand **causation**. I apply rigorous econometric methods like **Difference-in-Differences** and **A/B testing** using **R** and **Python** to measure true impact. My curiosity is always pushing me to find not just the *'what'* in the data, but the *'why'* behind it.
 
 You can see this approach in my projects below, where I've done everything from engineering automated marketing pipelines to quantifying the causal impact of a sales promotion. Whether the goal is business growth or policy evaluation, my process is the same: use robust technology and sound methodology to deliver clear, actionable answers.
 
+
 ---
 
 ### My Tech Stack & Quantitative Toolkit
 
-| Programming & Databases                                       | Analysis & Visualization                                                                   | Tools & Platforms                                                    |
-| ------------------------------------------------------------- | ------------------------------------------------------------------------------------------ | -------------------------------------------------------------------- |
-| Python (Pandas, Matplotlib)                                   | Econometrics & Causal Inference                                                            | Git & GitHub                                                         |
-| R (Tidyverse, fixest)                                         | Statistical Modeling & A/B Testing                                                         | RStudio                                                              |
-| SQL (PostgreSQL, CTEs, Joins)                                 | Cohort Analysis & Segmentation                                                             | Google Sheets (QUERY, Apps Script)                                   |
-|                                                               | Data Visualization (Tableau, Looker)                                                       | DBeaver                                                              |
-
+| Programming & Databases | Analysis & Visualization | Tools & Platforms |
+| :--- | :--- | :--- |
+| • Python (Pandas, Matplotlib, Seaborn)<br>• R (Tidyverse, fixest)<br>• SQL (PostgreSQL, CTEs, Joins) | • Econometrics & Causal Inference<br>• Statistical Modeling & A/B Testing<br>• Cohort Analysis & Segmentation<br>• Data Visualization (Tableau, Looker) | • Git & GitHub<br>• RStudio<br>• Google Sheets (QUERY, Apps Script)<br>• DBeaver |
 ---
 
 ### Featured Projects
