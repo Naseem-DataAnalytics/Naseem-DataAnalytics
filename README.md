@@ -1,22 +1,76 @@
-# Hi, I'm Naseem 👋
+# Hi, I'm Naseem Mohammad 👋
+### Data Analysis & Applied Economics | Applying causal inference and data engineering to solve policy and business problems.
 
-- 🌱 Currently learning **Python, SQL, R, and Data Visualization**  
-- 🎓 Courses & Certifications:  
-  - ✅ **Data Science Fundamentals with Python & SQL (IBM)** — completed  
-  - **Data Science Specialization (Johns Hopkins University)** — expected by september end
-  - **Google Analytics Professional Certificate (Coursera)** — completing by Oct  
-  - **MITx MicroMasters in Data, Economics, and Development Policy**:  
-    - ✅ Data Analysis for Social Scientists  
-    - ✅ Microeconomics  
-    - ✅ Challenges of Global Poverty  
-    - ✅ Designing and Running Randomized Evaluations & Political Economy and Economic Development — upcoming/completed by Dec  
-- 💻 Skills & Tools:  
-  - **Programming & Analysis:** `Python`, `SQL`, `R`  
-  - **Data Visualization:** `Tableau`, `Google Sheets`, `Matplotlib`, `Seaborn`, `ggplot2`  
-  - **Other Tools:** `Excel`, `Google Analytics`, `BigQuery`  
-
-- 🚀 Goal: Build a strong analytics portfolio, grow as a **data analyst and data scientist**, and pursue opportunities such as the **Google Data Analytics Apprenticeship**, with a long-term vision of advancing in **data science at a global scale**  
+[<img src="https://img.shields.io/badge/linkedin-%230077B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white" />](https://www.linkedin.com/in/naseem-mohammad/) [<img src="https://img.shields.io/badge/gmail-%23D14836.svg?&style=for-the-badge&logo=gmail&logoColor=white" />](mailto:naseemmohdcse@gmail.com)
 
 ---
+
+### About Me
+
+I'm a data scientist with a foundation in Economics and advanced training in quantitative analysis from the **MITx MicroMasters in Data, Economics, and Development Policy**. My work spans the full analytics lifecycle, from architecting foundational data pipelines in **SQL** and **Python** to deploying insights that drive decisions.
+
+> I believe the most robust insights come from moving beyond correlation to understand **causation**. I apply rigorous econometric methods like **Difference-in-Differences** and **A/B testing** using **R** and **Python** to measure true impact. My curiosity is always pushing me to find not just the *'what'* in the data, but the *'why'* behind it.
+
+You can see this approach in my projects below, where I've done everything from engineering automated marketing pipelines to quantifying the causal impact of a sales promotion. Whether the goal is business growth or policy evaluation, my process is the same: use robust technology and sound methodology to deliver clear, actionable answers.
+
+---
+
+### My Tech Stack & Quantitative Toolkit
+
+| Programming & Databases                                       | Analysis & Visualization                                                                   | Tools & Platforms                                                    |
+| ------------------------------------------------------------- | ------------------------------------------------------------------------------------------ | -------------------------------------------------------------------- |
+| Python (Pandas, Matplotlib)                                   | Econometrics & Causal Inference                                                            | Git & GitHub                                                         |
+| R (Tidyverse, fixest)                                         | Statistical Modeling & A/B Testing                                                         | RStudio                                                              |
+| SQL (PostgreSQL, CTEs, Joins)                                 | Cohort Analysis & Segmentation                                                             | Google Sheets (QUERY, Apps Script)                                   |
+|                                                               | Data Visualization (Tableau, Looker)                                                       | DBeaver                                                              |
+
+---
+
+### Featured Projects
+
+<table>
+<tr>
+<td width="50%">
+  <h3>Causal Impact Analysis of a Sales Promotion</h3>
+  <p>A causal analysis using a <strong>Difference-in-Differences</strong> model in R to isolate the true impact of a sales promotion (+82.6% lift), with a focus on model validation and reproducible reporting.</p>
+  <strong>Technologies:</strong> R, Tidyverse, fixest, R Markdown, Causal Inference
+  <br><br>
+  <a href="[LINK-TO-YOUR-PROJECT-REPO]">View Project &rarr;</a>
+</td>
+<td width="50%">
+  <h3>E-Commerce Customer Retention Analysis</h3>
+  <p>An end-to-end customer segmentation and cohort analysis project using <strong>PostgreSQL</strong> to identify high-value customers from a large dataset of over 100,000 orders.</p>
+  <strong>Technologies:</strong> PostgreSQL, SQL, CTEs, Cohort Analysis, BI
+  <br><br>
+  <a href="[LINK-TO-YOUR-PROJECT-REPO]">View Project &rarr;</a>
+</td>
+</tr>
+<tr>
+<td width="50%">
+  <h3>GA4 Automated Reporting Pipeline</h3>
+  <p>A robust <strong>Python</strong> pipeline that automates Google Analytics 4 data extraction via its API, handling errors and ensuring 100% data uptime for real-time marketing dashboards.</p>
+  <strong>Technologies:</strong> Python, APIs, Automation, Data Engineering
+  <br><br>
+  <a href="[LINK-TO-YOUR-PROJECT-REPO]">View Project &rarr;</a>
+</td>
+<td width="50%">
+  </td>
+</tr>
+</table>
+
+---
+
+### Education & Certifications
+
+- **MITx MicroMasters: Data, Economics & Development Policy** (Expected Dec 2025)
+  - _Courses: Data Analysis for Social Scientists, Microeconomics, Challenges of Global Poverty, Designing and Running Randomized Evaluations, Political Economy._
+- **BA (Hons) Liberal Arts, Economics (First Division with Distinction)** - Chandigarh University (2023)
+- **Google Advanced Data Analytics Professional Certificate** - Coursera (Expected Dec 2025)
+- **Data Science Specialization** - Johns Hopkins University, Coursera (Expected Sep 2025)
+- **Databases & SQL for Data Science with Python** - IBM
+
+</td>
+</tr>
+</table>
 
   
